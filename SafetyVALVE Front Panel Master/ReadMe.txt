@@ -1,2 +1,0 @@
-Open up your copy of EasyEDA. Navigate left on the top menu to File, Open, EasyEDA, select the file you downloaded
-PCB_rACK_SafetyVALVE_FRONT_PANEL_2021-07-05.json and open it. You can now edit my orginal SafetyVALVE Front Panel. Any questions feel free to contact me.
